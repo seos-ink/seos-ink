@@ -1,6 +1,5 @@
 - Hi, I’m @seos-ink, but you can call me **Aster0id**.
 - I’m currently learning html & css, Java, JavaScript and PHP;
-- **Pronouns:** they/them (on English);
 - **Fun fact:** I'm working on my onw project, the "Game Rocket" website.
 
 <!---
