@@ -1,4 +1,4 @@
-## Hi, I’m @seos-ink, but you can call me Aster0id.
+## Hi, I’m Saulo, but you can call me Aster0id.
 - **Works/studies in:** Systems Development Technician (2nd Year);
 - **I’m currently learning:** html & css, Java, JavaScript and PHP;
 - **Languages:** English and Brazilian Portuguese;
