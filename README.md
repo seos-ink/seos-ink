@@ -5,11 +5,14 @@
 - **My motto:** *Verba Volant, Scripta Manent.*
 - **Fun fact:** I'm working on my onw project, the "Game Rocket" website.
 
+
 ![Saulo Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=seos-ink&show_icons=true&theme=aura)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seos-ink&layout=compact&theme=aura)
 [![trophy](https://github-profile-trophy.vercel.app/?username=seos-ink&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=seos-ink&theme=aura" alt="mystreak"/>
-[![Codewars Badge](https://www.codewars.com/users/seos-ink/badges/large)](https://www.codewars.com/users/seos-ink)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gxwctncnugx7kv0d5zwtaxzs8&cover_image=true&theme=novatorem&show_offline=false&background_color=a80b0b&interchange=false&bar_color=1b321a&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=gxwctncnugx7kv0d5zwtaxzs8&redirect=true)
+
+
+
 
 <!---
 seos-ink/seos-ink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
