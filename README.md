@@ -3,7 +3,7 @@
 - **I’m currently learning:** html & css, Java, JavaScript and PHP;
 - **Languages:** English and Brazilian Portuguese;
 - **My motto:** *Verba Volant, Scripta Manent.*
-- **Fun fact:** I'm working on my onw project, the "Game Rocket" website.
+- **Fun fact:** I'm working on my own project, the "Game Rocket" website, and trying to learn how to make games on GameMaker/GDevelop.
 
 
 ![Saulo Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=seos-ink&show_icons=true&theme=aura)
