@@ -6,9 +6,9 @@
 - **Fun fact:** I'm working on my own project, the "Game Rocket" website, and trying to learn how to make games on GameMaker/GDevelop.
 
 
-![Saulo Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=seos-ink&show_icons=true&theme=aura)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seos-ink&layout=compact&theme=aura)
-[![trophy](https://github-profile-trophy.vercel.app/?username=seos-ink&theme=aura)](https://github.com/ryo-ma/github-profile-trophy)
+![Saulo Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=seos-ink&show_icons=true&theme=noctis_minimus)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seos-ink&layout=compact&theme=noctis_minimus)
+[![trophy](https://github-profile-trophy.vercel.app/?username=seos-ink&theme=catppucin_mocha)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
