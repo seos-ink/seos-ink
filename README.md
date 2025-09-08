@@ -8,7 +8,7 @@
 
 ![Saulo Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=seos-ink&show_icons=true&theme=noctis_minimus)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seos-ink&layout=compact&theme=noctis_minimus)
-[![trophy](https://github-profile-trophy.vercel.app/?username=seos-ink&theme=catppucin_mocha)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=seos-ink&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
