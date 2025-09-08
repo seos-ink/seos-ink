@@ -1,4 +1,4 @@
-## Seos-ink's README.md
+## hello there :D
 - **Works/studies in:** Systems Development Technician (2nd Year);
 - **I’m currently learning:** html & css, Java, JavaScript and PHP;
 - **Languages:** English and Brazilian Portuguese;
