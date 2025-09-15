@@ -10,7 +10,8 @@
 
 ###
 
-<img align="right" height="200" src=""  />
+<img align="right" height="200"
+src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fayi0xce9yb7a1.gif"/>
 
 ###
 
