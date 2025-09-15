@@ -5,8 +5,19 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=seos-ink&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seos-ink&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=seos-ink&theme=nord&column=3&row=3&margin-w=0&margin-h=0&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=seos-ink&theme=nord&column=4&row=4&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
+
+###
+
+<!--<div align="right">
+  <a href="https://open.spotify.com/user/aster0id">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=aster0id&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>-->
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=gxwctncnugx7kv0d5zwtaxzs8)
+
 
 ###
 
