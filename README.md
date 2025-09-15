@@ -10,16 +10,6 @@
 
 ###
 
-<!--<div align="right">
-  <a href="https://open.spotify.com/user/aster0id">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=aster0id&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>-->
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=gxwctncnugx7kv0d5zwtaxzs8)
-
-
-###
 
 <img align="right" height="200" width="200"
 src="https://64.media.tumblr.com/be3c23c355f53428a6d9398f76997496/tumblr_orwz15azeH1td9nt5o1_500.gif"/>
