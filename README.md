@@ -11,7 +11,7 @@
 ###
 
 
-<img align="right" height="200" width="200"
+<img align="right" height="200" width="200" bordeRadius="20px"
 src="https://64.media.tumblr.com/be3c23c355f53428a6d9398f76997496/tumblr_orwz15azeH1td9nt5o1_500.gif"/>
 
 ###
