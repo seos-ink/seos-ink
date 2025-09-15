@@ -11,7 +11,7 @@
 ###
 
 <img align="right" height="200"
-src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fayi0xce9yb7a1.gif"/>
+src="https://64.media.tumblr.com/be3c23c355f53428a6d9398f76997496/tumblr_orwz15azeH1td9nt5o1_500.gif"/>
 
 ###
 
