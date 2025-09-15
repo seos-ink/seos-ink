@@ -34,7 +34,7 @@ src="https://64.media.tumblr.com/be3c23c355f53428a6d9398f76997496/tumblr_orwz15a
 
 ###
 
-<p align="left">- Works/studies in: Systems Development Technician (2nd Year);<br>- I’m currently learning: html & css, Java, JavaScript and PHP;<br>- Languages: English and Brazilian Portuguese;<br>- My motto: Verba Volant, Scripta Manent.<br>- Fun fact: I'm working on my own project, the "Game Rocket" website, and trying to learn how to make games on GameMaker/GDevelop.</p>
+<p align="left">- Works/studies in: Systems Development Technician (2nd Year);<br>- I’m currently learning: html & css, Java, JavaScript and PHP;<br>- Languages: English and Brazilian Portuguese;<br>- My motto: Verba Volant, Scripta Manent.<br>- Fun fact: I'm working on my own project, the "ControlVerse" website, and trying to learn how to make games on GameMaker/GDevelop.</p>
 
 ###
 
