@@ -11,30 +11,23 @@
 ###
 
 
-<img align="right" height="200" width="200" bordeRadius="20px"
+<img align="right" height="200" width="200" borderRadius="20px"
 src="https://64.media.tumblr.com/be3c23c355f53428a6d9398f76997496/tumblr_orwz15azeH1td9nt5o1_500.gif"/>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="gamemakerstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  /> -->
+<h3>Languages that I've worked with:</h3>
+  [![My Skills](https://skillicons.dev/icons?i=java,html,css,react,javascript,gamemakerstudio,mysql,bootstrap&perline=3)](https://skillicons.dev)
+
+<h3>Languages that I've at least touched once:</h3>
+[![My Skills](https://skillicons.dev/icons?i=php,linux,cs,lua,unity&perline=3)](https://skillicons.dev)
+
 </div>
 
 ###
 
-<p align="left">- Works/studies in: Systems Development Technician (2nd Year);<br>- I’m currently learning: html & css, Java, JavaScript and PHP;<br>- Languages: English and Brazilian Portuguese;<br>- My motto: Verba Volant, Scripta Manent.<br>- Fun fact: I'm working on my own project, the "ControlVerse" website, and trying to learn how to make games on GameMaker/GDevelop.</p>
+<p align="left">- Works/studies in: Systems Development Technician (2nd Year);<br>- I’m currently learning: html & css, Java, JavaScript and PHP;<br>- Languages I talk: English and Brazilian Portuguese;<br>- My motto: Verba Volant, Scripta Manent.<br>- Fun fact: I'm working on my own project, the "ControlVerse" website, and trying to learn how to make games on GameMaker/GDevelop.</p>
 
 ###
 
