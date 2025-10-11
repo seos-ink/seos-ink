@@ -18,7 +18,7 @@ src="https://64.media.tumblr.com/be3c23c355f53428a6d9398f76997496/tumblr_orwz15a
 
 <div align="left">
 <h3>Languages that I've worked with:</h3>
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,react,js,gamemakerstudio,mysql,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,react,js,gamemakerstudio,mysql)](https://skillicons.dev)
 
 <h3>Languages that I've at least touched once:</h3>
 [![My Skills](https://skillicons.dev/icons?i=php,linux,cs,lua,unity)](https://skillicons.dev)
