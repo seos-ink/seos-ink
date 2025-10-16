@@ -11,8 +11,8 @@
 ###
 
 
-<img align="right" height="200" width="200" borderRadius="20px"
-src="https://64.media.tumblr.com/be3c23c355f53428a6d9398f76997496/tumblr_orwz15azeH1td9nt5o1_500.gif"/>
+<img align="right" height="800" width="400"
+src="https://cdn2.steamgriddb.com/hero/c1a79e7f0d5d27de57b7ff4c3ccaf1b5.jpg"/>
 
 ###
 
