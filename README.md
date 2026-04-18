@@ -1,9 +1,9 @@
 <h2 align="center">hello world! :D</h2>
 
-###
+/* ###
 
 <img align="right" height="800" width="400"
-src="https://cdn2.steamgriddb.com/hero/c1a79e7f0d5d27de57b7ff4c3ccaf1b5.jpg"/>
+src="https://cdn2.steamgriddb.com/hero/c1a79e7f0d5d27de57b7ff4c3ccaf1b5.jpg"/> */
 
 ###
 
