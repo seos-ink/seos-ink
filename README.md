@@ -1,10 +1,5 @@
 <h2 align="center">hello world! :D</h2>
 
-/* ###
-
-<img align="right" height="800" width="400"
-src="https://cdn2.steamgriddb.com/hero/c1a79e7f0d5d27de57b7ff4c3ccaf1b5.jpg"/> */
-
 ###
 
 <p align="left">- Works/studies in: Systems Development Technician (2nd Year);<br>- I’m currently learning: html & css, Java, JavaScript and PHP;<br>- Languages I talk: English and Brazilian Portuguese;<br>- My motto: Verba Volant, Scripta Manent.<br>- Fun fact: I'm working on my own project, the "ControlVerse" website, and trying to learn how to make games on GameMaker/GDevelop.</p>
