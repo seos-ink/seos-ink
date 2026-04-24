@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Works/studies in: Systems Development Technician (2nd Year);<br>- I’m currently learning: html & css, Java, JavaScript and PHP;<br>- Languages I talk: English and Brazilian Portuguese;<br>- My motto: Verba Volant, Scripta Manent.<br>- Fun fact: I'm working on my own project, the "ControlVerse" website, and trying to learn how to make games on GameMaker/GDevelop.</p>
+<p align="left">- Works/studies in: Systems Development Technician (3rd Year);<br>- I’m currently learning: html & css, Java, JavaScript and PHP;<br>- Languages I talk: English and Brazilian Portuguese;<br>- My motto: Verba Volant, Scripta Manent.<br>- Fun fact: I'm working on my own project, the "ControlVerse" website, and trying to learn how to make games on GameMaker/GDevelop.</p>
 
 ###
 
@@ -43,7 +43,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  /> 
 </div>
 
 ###
