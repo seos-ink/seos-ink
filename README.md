@@ -56,8 +56,11 @@
 </div>
 
 ###
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seos-ink&radius=16&theme=nightowl&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/seos-ink/seos-ink/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/seos-ink/seos-ink/trophy-output/trophy.svg?theme=nord&column=4&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/seos-ink/seos-ink/activity-graph-output/activity-graph.svg?radius=16&theme=nord&area=false&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
